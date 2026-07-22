@@ -21,4 +21,4 @@
 
 ## GitHub 数据
 
-![benrenshan 的 GitHub 数据](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benrenshan&show_icons=true&theme=transparent&hide_border=true)
+![benrenshan 的 GitHub 提交记录](https://streak-stats.demolab.com?user=benrenshan&theme=transparent&hide_border=true)
