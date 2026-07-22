@@ -1,11 +1,13 @@
 # 你好，我是 benrenshan 👋
 
+![benrenshan 的 GitHub 提交记录](https://streak-stats.demolab.com?user=benrenshan&theme=transparent&hide_border=true)
+
 一名后端开发者，专注于构建稳定、高性能、可维护的服务与系统。
 
 - 🔭 目前方向：后端服务、分布式系统与 AI 应用
 - 🌱 正在学习：云原生、系统设计与性能优化
 - 💬 欢迎交流：Java、Go、Python、后端架构
-- 📫 联系我：替换为你的邮箱
+- 📫 联系我：yitianshan@foxmail.com
 - ⚡ 喜欢把复杂问题拆解成可靠、清晰的工程方案
 
 ## 技术栈
@@ -18,7 +20,3 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-## GitHub 数据
-
-![benrenshan 的 GitHub 提交记录](https://streak-stats.demolab.com?user=benrenshan&theme=transparent&hide_border=true)
