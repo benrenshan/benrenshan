@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -22,4 +21,4 @@
 
 ## GitHub 数据
 
-![benrenshan 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=benrenshan&show_icons=true&theme=transparent&hide_border=true)
+![benrenshan 的 GitHub 数据](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benrenshan&show_icons=true&theme=transparent&hide_border=true)
